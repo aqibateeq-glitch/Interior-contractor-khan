@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AQIB Interiors | Gurgaon • Agra • NCR</title>
+  <meta name="description" content="Premium interior design and turnkey execution in Gurgaon, Agra, and NCR—modular kitchens, bedrooms, living spaces, and commercial fit-outs." />
+  <meta name="keywords" content="interior design, Gurgaon, Agra, modular kitchen, bedroom design, turnkey interiors, carpentry, renovation" />
+  <link rel="canonical" href="https://www.aqibinteriors.com/" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="AQIB Interiors | Gurgaon • Agra • NCR" />
+  <meta property="og:description" content="Premium interior design and turnkey execution—modular kitchens, bedrooms, living spaces, and commercial fit-outs." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.aqibinteriors.com/" />
+  <meta property="og:image" content="https://www.aqibinteriors.com/assets/og-cover.jpg" />
+
+  <!-- Favicon -->
+  <link rel="icon" href="/assets/favicon.png" type="image/png" />
+
+  <!-- Styles -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+
+  <!-- JSON-LD Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "AQIB Interiors",
+    "image": "https://www.aqibinteriors.com/assets/og-cover.jpg",
+    "url": "https://www.aqibinteriors.com/",
+    "telephone": "+91-XXXXXXXXXX",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Gurgaon & Agra",
+      "addressLocality": "Gurgaon",
+      "addressRegion": "Haryana",
+      "postalCode": "122002",
+      "addressCountry": "IN"
+    },
+    "areaServed": ["Gurgaon", "Agra", "NCR", "Badaun", "Bareilly", "Moradabad", "Aligarh"],
+    "priceRange": "₹₹₹",
+    "openingHours": "Mo-Sa 10:00-19:00",
+    "sameAs": [
+      "https://www.instagram.com/aqibinteriors",
+      "https://www.facebook.com/aqibinteriors"
+    ],
+    "description": "Premium interior design and turnkey execution—modular kitchens, bedrooms, living spaces, and commercial fit-outs."
+  }
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav">
+      <a class="logo" href="#">AQIB Interiors</a>
+      <button class="nav-toggle" aria-label="Toggle menu">☰</button>
+      <ul class="nav-links">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#process">Process</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+
+    <section id="home" class="hero">
+      <div class="hero-content">
+        <h1>Spaces that feel like you—crafted with precision</h1>
+        <p>Turnkey interiors across Gurgaon, Agra, and NCR. From concept to carpentry, we deliver with heart and detail.</p>
+        <a class="btn btn-primary" href="#contact">Get a free estimate</a>
+      </div>
+      <div class="hero-image" role="img" aria-label="Elegant living room with warm lighting"></div>
+    </section>
+  </header>
+
+  <main>
+    <section id="gallery" class="section">
+      <div class="container">
+        <h2>Featured projects</h2>
+        <p class="section-subtitle">Modular kitchens, bedrooms, living spaces, and commercial fit-outs.</p>
+        <div class="grid gallery">
+          <figure>
+            <img src="assets/gallery/kitchen-01.jpg" alt="Matte modular kitchen with brass accents" />
+            <figcaption>Matte modular kitchen • Brass accents</figcaption>
+          </figure>
+          <figure>
+            <img src="assets/gallery/bedroom-01.jpg" alt="Warm bedroom with fluted panels and ambient lighting" />
+            <figcaption>Warm bedroom • Fluted panels</figcaption>
+          </figure>
+          <figure>
+            <img src="assets/gallery/living-01.jpg" alt="Minimal living room with custom TV unit and storage" />
+            <figcaption>Minimal living • Custom TV unit</figcaption>
+          </figure>
+          <figure>
+            <img src="assets/gallery/office-01.jpg" alt="Contemporary office reception with veneer and stone" />
+            <figcaption>Contemporary office • Veneer & stone</figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <section id="services" class="section alt">
+      <div class="container">
+        <h2>Services</h2>
+        <div class="cards">
+          <article class="card">
+            <h3>Modular kitchens</h3>
+            <p>Design, fabrication, and installation—hardware from top brands, moisture-resistant boards, and ergonomic layouts.</p>
+          </article>
+          <article class="card">
+            <h3>Bedrooms & wardrobes</h3>
+            <p>Custom wardrobes, fluted panels, mirrors, and lighting plans tailored to your lifestyle.</p>
+          </article>
+          <article class="card">
+            <h3>Living & TV units</h3>
+            <p>Statement walls, storage solutions, and media units that balance aesthetics with function.</p>
+          </article>
+          <article class="card">
+            <h3>Commercial fit-outs</h3>
+            <p>Reception, cabins, workstations, and brand-led materials for offices and retail.</p>
+          </article>
+          <article class="card">
+            <h3>Turnkey execution</h3>
+            <p>End-to-end project management—carpentry, electrical, painting, and site coordination.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="process" class="section">
+      <div class="container">
+        <h2>Our process</h2>
+        <div class="steps">
+          <div class="step">
+            <span class="step-number">1</span>
+            <h4>Discovery</h4>
+            <p>We understand your space, needs, and budget—on-site or virtual.</p>
+          </div>
+          <div class="step">
+            <span class="step-number">2</span>
+            <h4>Design</h4>
+            <p>Concepts, moodboards, and drawings aligned to your style.</p>
+          </div>
+          <div class="step">
+            <span class="step-number">3</span>
+            <h4>Build</h4>
+            <p>Fabrication and installation with strict quality checks.</p>
+          </div>
+          <div class="step">
+            <span class="step-number">4</span>
+            <h4>Handover</h4>
+            <p>Final walkthrough, snag resolution, and maintenance guide.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="section alt">
+      <div class="container">
+        <h2>Contact us</h2>
+        <p class="section-subtitle">Share your requirements—get a tailored estimate within 24 hours.</p>
+        <form class="contact-form" action="https://formspree.io/f/your-form-id" method="POST">
+          <div class="form-row">
+            <label for="name">Name</label>
+            <input id="name" name="name" type="text" required />
+          </div>
+          <div class="form-row">
+            <label for="phone">Phone</label>
+            <input id="phone" name="phone" type="tel" required />
+          </div>
+          <div class="form-row">
+            <label for="city">City</label>
+            <input id="city" name="city" type="text" placeholder="Gurgaon / Agra / NCR" />
+          </div>
+          <div class="form-row">
+            <label for="message">Project details</label>
+            <textarea id="message" name="message" rows="5" placeholder="Rooms, scope, timeline, budget"></textarea>
+          </div>
+          <button class="btn btn-primary" type="submit">Send inquiry</button>
+          <p class="form-note">By submitting, you agree to be contacted regarding your project.</p>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <h4>AQIB Interiors</h4>
+        <p>Design-led execution across Gurgaon, Agra, and NCR.</p>
+      </div>
+      <div>
+        <h4>Quick links</h4>
+        <ul class="footer-links">
+          <li><a href="#gallery">Gallery</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#process">Process</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Follow</h4>
+        <ul class="social">
+          <li><a href="https://www.instagram.com/aqibinteriors" aria-label="Instagram">Instagram</a></li>
+          <li><a href="https://www.facebook.com/aqibinteriors" aria-label="Facebook">Facebook</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <small>© <span id="year"></span> AQIB Interiors • All rights reserved</small>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
